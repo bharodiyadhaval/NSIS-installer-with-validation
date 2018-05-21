@@ -1,0 +1,10 @@
+﻿  myPhysics.cpp
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(246): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(296): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(332): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(389): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\myphysics\myphysics.cpp(414): warning C4018: '<': signed/unsigned mismatch
+  myPhysics.vcxproj -> C:\Users\Deathstone\Desktop\Project03\AI_Project2_Balls_chasing\Physics2_Project3_Balls_chasing\Debug\myPhysics.lib

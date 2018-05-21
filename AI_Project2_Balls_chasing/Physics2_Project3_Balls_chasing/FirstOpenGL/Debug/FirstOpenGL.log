@@ -1,0 +1,17 @@
+﻿  TheMain.cpp
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(360): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(427): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(675): warning C4018: '<': signed/unsigned mismatch
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(366): warning C4101: 'vpos_location': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(366): warning C4101: 'vcol_location': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(365): warning C4101: 'fragment_shader': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(365): warning C4101: 'vertex_shader': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(365): warning C4101: 'program': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(365): warning C4101: 'vertex_buffer': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(666): warning C4101: 'dl': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(666): warning C4101: 'vl': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(666): warning C4101: 'dr': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(666): warning C4101: 'vr': unreferenced local variable
+c:\users\deathstone\desktop\project03\ai_project2_balls_chasing\physics2_project3_balls_chasing\firstopengl\themain.cpp(176): warning C4715: 'SceneDescriptor': not all control paths return a value
+  FirstOpenGL.vcxproj -> C:\Users\Deathstone\Desktop\Project03\AI_Project2_Balls_chasing\Physics2_Project3_Balls_chasing\Debug\FirstOpenGL.exe
